@@ -1,0 +1,12 @@
+what is Core Data ?
+Core Data
+Core Data is the method recommended by Apple for local storage of app’s data. By default, core data uses SQLite as its main database in the iOS app.
+Internally Core Data make use of SQLite queries to save and store its data locally, which is why all the files are stored as .db files.
+This also eliminates the need to install a separate database. In iOS this framework allows for two different database storage types but by default it is SQLite.
+Core Data allows you deal with common functionalities of an app like, restore, store, undo and redo.
+
+Core data is a data modelling framework built on the model-view-controller(MVC) pattern. It is expressed in terms of entities and relationships.
+We can create entities and add relationships in the graphical form. This helps to eliminate most of the basic code and can be easily added into your application.
+
+Core data provides an API to deal with common functionalities such as Save, Delete, Undo etc. which allows us to build applications easily. 
+Using this we need not worry about SQL query and its syntax
