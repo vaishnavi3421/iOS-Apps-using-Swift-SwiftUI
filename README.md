@@ -1,3 +1,3 @@
 # iOS-Apps-using-Swift-SwiftUI
- here i have created different Apps with detail Explanations.
+ Here I have created different Apps with detail Explanations.
  
